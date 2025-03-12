@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TigistW&label=Profile%20views&color=0e75b6&style=flat" alt="TigistW" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TigistW" alt="TigistW" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TigistW&theme=onedark" alt="TigistW" /></a> </p>
 
 - 🔭 Currently work on Machine Learning Projects
 
@@ -40,8 +40,8 @@
          <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TigistW&show_icons=true&locale=en&layout=compact" alt="TigistW" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TigistW&show_icons=true&locale=en&theme=blue-green&layout=compact" alt="TigistW" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TigistW&show_icons=true&locale=en" alt="TigistW" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TigistW&show_icons=true&locale=en&theme=blue-green" alt="TigistW" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TigistW&" alt="TigistW" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TigistW&theme=blue-green&hide_border=true&border_radius=6.4&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
